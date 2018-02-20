@@ -1,0 +1,22 @@
+package com.niit.backend.DaoImpl;
+
+import java.util.List;
+
+import com.niit.backend.DAO.BasketDao;
+import com.niit.backend.models.ProductModel;
+
+
+
+public class BasketDaoImpl implements BasketDao {
+
+	public void addToCart(String name, int pid) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public List<ProductModel> openBasket() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

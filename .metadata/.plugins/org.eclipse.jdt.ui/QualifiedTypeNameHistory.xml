@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.niit.backend.DAO.ProductDao"/>
+<fullyQualifiedTypeName name="com.niit.backend.DAO.UserDao"/>
+<fullyQualifiedTypeName name="com.niit.backend.models.UserModel"/>
+<fullyQualifiedTypeName name="com.niit.backend.DAO.BasketDao"/>
+<fullyQualifiedTypeName name="com.niit.backend.models.ProductModel"/>
+<fullyQualifiedTypeName name="com.niit.backend.models.CartItemModel"/>
+<fullyQualifiedTypeName name="com.niit.backend.models.BasketModel"/>
+<fullyQualifiedTypeName name="com.niit.backend.DAO.CartItemDao"/>
+<fullyQualifiedTypeName name="javax.persistence.OneToOne"/>
+<fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
+<fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
+<fullyQualifiedTypeName name="javax.persistence.FetchType"/>
+<fullyQualifiedTypeName name="javax.transaction.Transactional"/>
+</qualifiedTypeNameHistroy>
